@@ -1,0 +1,47 @@
+# =========================
+# Unreal Engine
+# =========================
+
+# Compiled binaries
+Binaries/
+Plugins/**/Binaries/
+
+# Build results
+Build/
+Plugins/**/Build/
+
+# Intermediate files
+Intermediate/
+Plugins/**/Intermediate/
+
+# Derived data cache
+DerivedDataCache/
+
+# Saved data (logs, autosaves, backups)
+Saved/
+
+# VS / Rider / CLion
+.vs/
+.idea/
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+*.VC.opendb
+
+# Rider for Unreal
+*.suo
+*.user
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash reports
+*.dmp
+*.log
+
+# Unreal temp files
+*.tmp
+*.temp
